@@ -1,0 +1,14 @@
+.navigation {
+  grid-area: nav;
+  background-color: #cbffa1;
+}
+.navigation ul {
+  list-style-type: none;
+}
+.navigation li {
+  max-width: max-content;
+}
+.navigation a {
+  text-decoration: none;
+  color: inherit;
+}

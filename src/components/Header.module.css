@@ -1,0 +1,12 @@
+.header {
+  grid-area: head;
+  background-color: #cbffa1;
+  position: relative;
+  border-radius: 5px;
+}
+.header img {
+  width: 60px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
